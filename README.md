@@ -1,4 +1,4 @@
-![InCal](https://github.com/barel-mishal/incal_lib/blob/main/photos/logo.png?raw=true&s=200)
+<img src="https://github.com/barel-mishal/incal_lib/blob/main/photos/logo.png?raw=true" width="500" height="257.2">
 
 ## InCal_lib rapid advence analysis for indirect calorimetry expriment data
 
