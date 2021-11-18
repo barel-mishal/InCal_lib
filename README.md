@@ -9,11 +9,19 @@ InCal's goal is to provide open-source tools for metabolic labs that use indirec
 
 ### Installation:
 
+pip - package menager:
+
 ```
 $ pip install InCal_lib
 ```
 
+package menager - package menager:
+If using anaconda package menager please follow this tutorial
+https://stackoverflow.com/questions/41060382/using-pip-to-install-packages-to-anaconda-environment
+
 ## Licence
+
+MIT LISENCE - [LICENSE](https://github.com/barel-mishal/incal_lib/blob/main/LICENSE).
 
 ## Contact
 
