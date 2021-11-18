@@ -8,8 +8,6 @@ Group = tuple[str, list[int]]
 Groups = list[Group]
 
 # sable files
-
-
 def read_CalR_sable_file(
         paths_or_path: list[str],
         groups: Groups,
