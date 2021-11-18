@@ -1,4 +1,4 @@
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![InCal](https://github.com/barel-mishal/incal_lib/blob/main/photos/logo.png?raw=true)
 
 ## InCal_lib rapid advence analysis for indirect calorimetry expriment data
 
